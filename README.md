@@ -26,7 +26,7 @@ This project performs sentiment analysis on airline customer reviews collected f
 
 ---
 
-## 🗂️ Project Workflow
+## Project Workflow
 
 1. Data Collection
 
@@ -59,16 +59,16 @@ This project performs sentiment analysis on airline customer reviews collected f
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 * Tweets scraped directly from Twitter using airline-specific keywords
 * Example keywords: `@IndiGo6E`, `@airindia`, `@united`, `@delta`
 
-> ⚠️ Note: Twitter data is scraped in compliance with platform policies and used only for educational purposes.
+>  Note: Twitter data is scraped in compliance with platform policies and used only for educational purposes.
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### 1️⃣ Clone the Repository
 
@@ -111,7 +111,7 @@ streamlit run app.py
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Real-time Twitter sentiment analysis
 * Multilingual tweet support
@@ -121,18 +121,11 @@ streamlit run app.py
 
 ---
 
-## 📚 References
+## References
 
 * Twitter API / SNScrape Documentation
 * Hugging Face Transformers
 * NLTK Documentation
-
----
-
-## 👨‍💻 Author
-
-**Shaik Mohammed Suhail**
-B.Tech | AI / Data Science Enthusiast
 
 ---
 ⭐ If you like this project, give it a star !
